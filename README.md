@@ -1,7 +1,7 @@
 # class_project_in_c
 This is the class project.
 
-### Hello World, I'm POllob(叶子) 👋
+###  I'm POllob(叶子) 👋
 
 <!--
 **Pollob001/Pollob001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
